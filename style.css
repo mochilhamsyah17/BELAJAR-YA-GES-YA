@@ -1,0 +1,32 @@
+.movie{
+    width: 300px;
+    margin: 2em;
+    border-radius: 5px;
+    box-shadow: 0.2px 4px 5px rgba(0,0,0,0.1);
+    background-color: rgb(190, 188, 188);
+    overflow: hidden;
+    position: relative;
+}
+
+img{
+    width: 100%;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    flex-direction: column;
+}
+
+.card m-5{
+    background-color: rgb(190, 188, 188);
+}
+
+h2{
+    text-align: center;
+}
